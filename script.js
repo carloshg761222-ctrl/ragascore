@@ -1,17 +1,1 @@
-body {
-  font-family: Arial, sans-serif;
-  background-color: #0b1c2d;
-  color: white;
-  text-align: center;
-  margin: 0;
-  padding: 40px;
-}
-
-h1 {
-  color: #00ff99;
-}
-
-p {
-  font-size: 18px;
-}
-
+console.log("Ragascore listo");
