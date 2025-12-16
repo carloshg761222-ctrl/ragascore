@@ -36,6 +36,40 @@ button {
 button:hover {
   background: #00cc7a;
 }
+/* --- Ajustes finales Ragascore --- */
+
+body {
+  background: linear-gradient(135deg, #0a2540, #0f4c75);
+}
+
+h1 {
+  font-size: 3rem;
+  font-weight: 700;
+}
+
+p {
+  font-size: 1.2rem;
+  opacity: 0.9;
+}
+
+.button,
+.btn,
+a.button {
+  background: #00d4ff;
+  color: #00334e;
+  padding: 14px 28px;
+  border-radius: 30px;
+  font-weight: 600;
+  text-decoration: none;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.button:hover,
+.btn:hover,
+a.button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.25);
+}
 
   
 
