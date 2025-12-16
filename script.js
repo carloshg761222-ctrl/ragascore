@@ -1,2 +1,3 @@
-console.log("🚀 Ragascore iniciado correctamente");
+console.log("🚀 Ragascore iniciado correctamente!");
+
 
